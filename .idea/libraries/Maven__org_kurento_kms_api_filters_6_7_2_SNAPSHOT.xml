@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.kurento:kms-api-filters:6.7.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kurento/kms-api-filters/6.7.2-SNAPSHOT/kms-api-filters-6.7.2-20180717.200735-18.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kurento/kms-api-filters/6.7.2-SNAPSHOT/kms-api-filters-6.7.2-20180717.200735-18-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kurento/kms-api-filters/6.7.2-SNAPSHOT/kms-api-filters-6.7.2-20180717.200735-18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
